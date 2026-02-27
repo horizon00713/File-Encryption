@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\123\Downloads\Crypto-Practicum-main\AES&CBC\main.cpp(321,8): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+  AES.vcxproj -> C:\Users\123\Desktop\project\AES\x64\Debug\AES.exe

@@ -1,0 +1,1 @@
+This system securely encrypts my research data. The core innovation focuses on fine-grained noisy label learning using multi-modal pre-trained model prompt learning. Additionally, it explores noisy label learning using transition matrix classifier consistency for robust image classification. AES-128 CBC mode testing initiated.

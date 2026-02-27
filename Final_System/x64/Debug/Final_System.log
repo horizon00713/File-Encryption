@@ -1,0 +1,82 @@
+﻿  AES.cpp
+C:\Users\123\Desktop\project\Final_System\AES.cpp(177,3): warning C4838: 从“unsigned int”转换到“int”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(348,8): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(348,8): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(348,13): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(348,13): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(348,18): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(348,18): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(349,8): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(349,8): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(349,13): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(349,13): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(349,18): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(349,18): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(350,3): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(350,3): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(350,8): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(350,8): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(350,13): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(350,13): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(351,3): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(351,3): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(365,3): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(365,3): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(365,8): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(365,8): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(365,13): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(365,13): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(366,8): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(366,8): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(366,13): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(366,13): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(367,8): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(367,8): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(368,3): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(368,3): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(368,8): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(368,8): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(368,13): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(368,13): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(383,3): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(383,3): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(383,8): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(383,8): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(383,13): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(383,13): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(384,3): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(384,3): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(384,8): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(384,8): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(385,18): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(385,18): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(386,8): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(386,8): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(386,13): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(386,13): warning C4309: “初始化”: 截断常量值
+C:\Users\123\Desktop\project\Final_System\AES.cpp(386,18): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\123\Desktop\project\Final_System\AES.cpp(386,18): warning C4309: “初始化”: 截断常量值
+  CBC.cpp
+C:\Users\123\Desktop\project\Final_System\CBC.cpp(9,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\123\Desktop\project\Final_System\CBC.cpp(25,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\123\Desktop\project\Final_System\CBC.cpp(35,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\123\Desktop\project\Final_System\CBC.cpp(56,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\123\Desktop\project\Final_System\CBC.cpp(90,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\123\Desktop\project\Final_System\CBC.cpp(137,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\123\Desktop\project\Final_System\CBC.cpp(148,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  F256.cpp
+  SHA.cpp
+C:\Users\123\Desktop\project\Final_System\SHA.cpp(113,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\123\Desktop\project\Final_System\SHA.cpp(123,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  System.cpp
+C:\Users\123\Desktop\project\Final_System\RSA.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\WinNTL-11_5_1\include\NTL\lip.h(399,40): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+C:\Users\123\Desktop\project\Final_System\System.cpp(30,16): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+  Util.cpp
+D:\WinNTL-11_5_1\include\NTL\lip.h(399,40): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+C:\Users\123\Desktop\project\Final_System\Util.cpp(29,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp
+C:\Users\123\Desktop\project\Final_System\RSA.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\WinNTL-11_5_1\include\NTL\lip.h(399,40): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+  正在生成代码...
+  Final_System.vcxproj -> C:\Users\123\Desktop\project\Final_System\x64\Debug\Final_System.exe
